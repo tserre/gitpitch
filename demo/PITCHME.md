@@ -10,7 +10,7 @@ end
 ---
 ## Add Some Slide Candy
 
-![](assets2/img/presentation.png)
+![](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
@@ -20,7 +20,7 @@ end
 @snapend
 
 @snap[east span-50]
-![](assets2/img/presentation.png)
+![](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100 text-white]
