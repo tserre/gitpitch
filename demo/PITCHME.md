@@ -20,7 +20,7 @@ end
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets2/img/presentation.png)
 @snapend
 
 @snap[south span-100 text-white]
