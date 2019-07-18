@@ -24,7 +24,7 @@ end
 @snapend
 
 @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+Wait the path is wrong here -- why is this even working???
 @snapend
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
